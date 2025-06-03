@@ -1,19 +1,23 @@
-/* charity: water Brand Colors & Fonts
+/* charity: water 
 
-Primary Colors:
-- Yellow:     #FFC907
-- Blue:       #2E9DF7
+*/body {
+    font-family: #004aad, Canva sans;
+    background-color: #fcf0a8 
+    color: #004aad;
+}
 
-Secondary Colors:
-- Light Blue: #8BD1CB
-- Green:      #4FCB53
-- Orange:     #FF902A
-- Red:        #F5402C
-- Dark Green: #159A48
-- Pink:       #F16061
+header {
+    background-color: #fcf0a8; 
+    color: #004aad;*/
+}
 
-Fonts:
-- Proxima Nova
-- Avenir
-
-*/
+button {
+    background-color: 
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 6px;
+} Donate {
+    background-color: #5e17eb
+    
+}
